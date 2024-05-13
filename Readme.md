@@ -14,8 +14,8 @@
 Таким образом получается универсально - эмулятор определяет некие callback и списки регистров/памяти и передаёт всё это хозяйство в тулкит. В свою очередь тулкит организует интерфейс с пользователем.
 
 Куда поедет?:
-- Nuked-MD
-- breaknes
+- [Nuked-MD](https://github.com/nukeykt/Nuked-MD)
+- [breaknes](https://github.com/emu-russia/breaknes)
 - ЗЫЧ
-- pureikyubu
+- [pureikyubu](https://github.com/emu-russia/pureikyubu)
 - ещё 100500 наших эмуляторов
